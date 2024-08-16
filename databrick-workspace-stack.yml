@@ -1,0 +1,6 @@
+template-file-path: template.yml
+parameters:
+  AccountId: 49c57248-29f6-4d2c-aac7-3e457d606f56
+  SessionToken: '****'
+  WorkspaceName: kkk
+tags: {}
